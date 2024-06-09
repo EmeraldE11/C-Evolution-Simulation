@@ -10,36 +10,29 @@
 
 Steps to build and/or run the software:
 
-1. 
-2.
-3.
+1. Get Visual Studio Community running.
+2. Download the github code.
+3. Run the program from simulation.cpp
 
 Instructions for using the software:
 
-1. First step here
-2.
-3.
+1. Answer the three prompts with positive integers
+2. Enjoy looking through the date
 
 ## Development Environment 
 
 To recreate the development environment, you need the following software and/or libraries with the specified versions:
 
-* First thing here
-*
-*
+* Download Visual Studio 2022
 
 ## Useful Websites to Learn More
 
 I found these websites useful in developing this software:
 
-* [Website Title](Link)
-*
-*
+* [ChatGPT](chat.openai.com)
 
 ## Future Work
 
 The following items I plan to fix, improve, and/or add to this project in the future:
 
-* [ ] First thing here
-* [ ]
-* [ ]
+* [Alter the equation and/or a few of the variables to make the simulation more realistic.]
